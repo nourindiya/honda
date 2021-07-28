@@ -68,9 +68,11 @@ body{
     height: 149px;
 }
 .card-img-top-3{
-    width: 155px;
-    height: 155px;
+    width: 140px;
+    height: 149px;
     margin: auto;
+    border-radius: 50%;
+    padding-top: 5px;
 }
 /*------------ Frequently Questions style ----------------*/
 .qus-img{
