@@ -1,0 +1,21 @@
+/*------------- Commo styles ---------------*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*--------------- header styles ------------*/
+ .head{
+  background-color:   #264653;
+}
+.container{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+} 
+.bike img{
+    width: 552px;
+    height: 447px;
+}
