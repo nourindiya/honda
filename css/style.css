@@ -1,8 +1,8 @@
 /*------------- Commo styles ---------------*/
-/* *{
+*{
     margin: 0px;
     padding: 0px;
-} */
+} 
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -51,12 +51,12 @@ body{
 .card-img-top{
     margin: auto;
     padding-top: 10px;
-}
+} 
 .fas , .far{
     color: #E77C40;
 }
 .star{
-    margin-left: 80px;
+    margin: auto;
 }
 
 .card-img-top{
@@ -72,4 +72,25 @@ body{
 .qus-img{
     width: 431.2px;
     height: 423.5px;
+}
+/*----------------- top bikes  ----------------*/
+.logo{
+    width: 98%;
+    margin: 10px;
+}
+.logo1{
+    width: 100%;
+    height: 420px;
+}
+.logo3{
+    filter: contrast(70%);
+    width: 98%;
+    height: 420px;
+}
+/*------------------ Ask More  ----------------*/
+.ask{
+    width: 100%;
+    height: 300px;
+    border: 1px solid white;
+    background-image: linear-gradient(rgb(147, 173, 229) , rgb(198, 213, 230));
 }
