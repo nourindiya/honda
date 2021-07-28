@@ -41,7 +41,7 @@ body{
     width: 288px;
     height: 243px;
 }
-/*------------------- Clints reviews ------------*/
+/*------------------- Clints reviews style ------------*/
 .card{
     width: 322px;
     height: 478.01px;
@@ -68,12 +68,12 @@ body{
     height: 155px;
     margin: auto;
 }
-/*------------ Frequently Questions  ----------------*/
+/*------------ Frequently Questions style ----------------*/
 .qus-img{
     width: 431.2px;
     height: 423.5px;
 }
-/*----------------- top bikes  ----------------*/
+/*----------------- top bikes style ----------------*/
 .logo{
     width: 98%;
     margin: 10px;
@@ -87,10 +87,14 @@ body{
     width: 98%;
     height: 420px;
 }
-/*------------------ Ask More  ----------------*/
+/*------------------ Ask More style ----------------*/
 .ask{
     width: 100%;
     height: 300px;
     border: 1px solid white;
     background-image: linear-gradient(rgb(147, 173, 229) , rgb(198, 213, 230));
+}
+.last{
+    margin: 0px;
+    padding: 0px;
 }
