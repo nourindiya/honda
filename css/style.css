@@ -1,21 +1,75 @@
 /*------------- Commo styles ---------------*/
-*{
+/* *{
     margin: 0px;
     padding: 0px;
-}
+} */
 body{
     font-family: 'Poppins', sans-serif;
 }
 /*--------------- header styles ------------*/
- .head{
-  background-color:   #264653;
-}
 .container{
     width: 100%;
     padding: 0px;
     margin: 0px;
 } 
+.header{
+  background-color:   #264653;
+}
 .bike img{
     width: 552px;
     height: 447px;
+}
+.btn-1 {
+   width: 168px; 
+   height: 44px; 
+   background-color:#E76F51;
+   border-radius: 5px;
+   color: white;
+   font-weight: 500;
+}
+/*------------------- Feature Bike  style------------*/
+.fs-6{
+    color:#E76F51;
+    font-weight: 400;
+}
+.f-bike{
+    width: 288px;
+    height: 243px;
+    filter: grayscale(100%);
+}
+.c-bike{
+    width: 288px;
+    height: 243px;
+}
+/*------------------- Clints reviews ------------*/
+.card{
+    width: 322px;
+    height: 478.01px;
+    border: 1px solid rgba(196, 190, 190, 0.856);
+    border-radius: 4px;
+}
+.card-img-top{
+    margin: auto;
+    padding-top: 10px;
+}
+.fas , .far{
+    color: #E77C40;
+}
+.star{
+    margin-left: 80px;
+}
+
+.card-img-top{
+    width: 149px;
+    height: 149px;
+}
+.card-img-top-3{
+    width: 155px;
+    height: 155px;
+    margin: auto;
+}
+/*------------ Frequently Questions  ----------------*/
+.qus-img{
+    width: 431.2px;
+    height: 423.5px;
 }
